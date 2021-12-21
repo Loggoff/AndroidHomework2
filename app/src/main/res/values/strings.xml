@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ButtonOne">1</string>
+    <string name="ButtonTwo">2</string>
+    <string name="ButtonThree">3</string>
+    <string name="ButtonFour">4</string>
+    <string name="ButtonFive">5</string>
+    <string name="ButtonSix">6</string>
+    <string name="ButtonSeven">7</string>
+    <string name="ButtonEight">8</string>
+    <string name="ButtonNine">9</string>
+    <string name="ButtonZero">0</string>
+
+
+    <string name="Equals">=</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">*</string>
+    <string name="Divide">÷</string>
+    <string name="Point">.</string>
+
+    <string name="Delete">del</string>
+    <string name="ClearAll">АC</string>
+
+    <string name="Display">Начните считать прямо сейчас!</string>
+
+</resources>
